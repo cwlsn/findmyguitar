@@ -11,6 +11,10 @@ export const HeaderWrapper = styled.div`
 export const HeaderInner = styled.div`
   display: flex;
   flex-flow: nowrap row;
+
+  @media (max-width: 950px) {
+    flex-flow: column;
+  }
 `;
 
 export const SiteTitle = styled.h1`
@@ -37,5 +41,14 @@ export const Navigation = styled.div`
 
   & > *:first-child {
     margin-left: 0;
+  }
+
+  @media (max-width: 950px) {
+    flex-flow: column;
+    align-items: flex-start;
+    width: 100%;
+    & > * {
+      margin: 0.5rem 0;
+    }
   }
 `;
