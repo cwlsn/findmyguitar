@@ -52,4 +52,4 @@ This guitar is like a family member to me. I can't imagine my life without it. P
 
 Thanks in advance,
 
-Derek O - (519)993-0838 - derekomusic@gmail.com
+Derek O - derekomusic@gmail.com

@@ -1,7 +1,7 @@
 import Image from './image';
 import Image2 from './image2';
 
-##### Get in Touch: Derek O - (519)993-0838 - derekomusic@gmail.com
+##### Get in Touch: Derek O - derekomusic@gmail.com
 
 # Missing Guitar - Reward 
 
